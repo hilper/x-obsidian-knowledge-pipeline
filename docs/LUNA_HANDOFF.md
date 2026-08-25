@@ -7,7 +7,7 @@
 ## 首次可直接复制的提示词
 
 ~~~text
-你现在负责实现私有仓库 hilper/x-obsidian-knowledge-pipeline。
+你现在负责实现公开仓库 hilper/x-obsidian-knowledge-pipeline。
 
 先完整阅读根目录 AGENTS.md，然后依次完整阅读：
 1. docs/TECHNICAL_DESIGN.md
